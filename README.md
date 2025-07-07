@@ -1,4 +1,4 @@
-# webservices-mcp
+# social-media-mcp
 
 ## Platforms
 
